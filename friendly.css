@@ -21,5 +21,3 @@ dialog.movement-dialog,dialog.roster-dialog{width:min(680px,calc(100% - 32px));m
 .ux-care-panel{margin:18px 0;padding:18px;background:#f2f7ff;border-radius:16px}.ux-care-panel h3{margin-bottom:12px}.ux-care-panel .final-table{overflow-x:auto}.ux-care-panel table{min-width:360px}
 
 .ux-time-label{display:inline-block;margin-left:5px;font-size:10px;font-weight:700}.ux-alternative-option .ux-alternative-action{margin-top:3px;font-weight:700;color:#006bd6}
-
-.static-demo-notice{position:sticky;top:0;z-index:200;background:#e9f4ff;color:#123a68;padding:10px 16px;text-align:center;font-size:12px;border-bottom:1px solid #d1e5fa}.static-demo-notice button{margin-left:10px;padding:4px 9px;font-size:11px;background:white;border:1px solid #bdd5ed;border-radius:8px;color:#185da2}.static-demo-notice~.top{top:0}.static-demo-notice a{color:inherit}
